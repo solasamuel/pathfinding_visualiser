@@ -1,4 +1,9 @@
 # Pathfinding Algorithm Visualizer
+## Map
+![Algorithm schema](./images/pv_screenshot1.png)
+
+## Result
+![Algorithm schema](./images/pv_screenshot2.png)
 
 ## Table of contents
 * [General info](#general-info)
@@ -13,6 +18,7 @@ Project is created with:
 * JavaScript
 * React
 * CSS
+* Npm
 	
 ## Launch
 
